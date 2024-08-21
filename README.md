@@ -21,7 +21,7 @@ This is a simple calculator application built using Java Swing. It allows users 
    ```bash
    javac Calculator.java SimpleCalculator.java
 
-#Output Screenshots
+##Output Screenshots
 
 ![image](https://github.com/user-attachments/assets/80b45a61-b3fd-4ab6-8617-42bec7c2c662)
 ![image](https://github.com/user-attachments/assets/febc6196-fc92-4877-9ee8-c904787ca2da)
